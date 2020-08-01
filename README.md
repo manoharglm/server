@@ -1,7 +1,4 @@
-## Try it
+## Description
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+Data for manoharglm.github.io
 
-## Use your own data
-
-Fork it and change `db.json` values or create a repo with a `db.json` file.
