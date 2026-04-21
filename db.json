@@ -18,6 +18,26 @@
     },
     "experience": [
         {
+            "title": "Senior Consultant",
+            "company": "Status Neo",
+            "startDate": "Jan 2025",
+            "endDate": "Present",
+            "description": [
+                "Building and enhancing Zed Mobility's(Client) mobile app ZED, a ride-hailing platform revolutionising urban mobility in the UAE.",
+                "Worked on Google Maps API extensively",
+                "Fixed several existing bugs and streamlined build and release processes.",
+                "Worked on flaky unreliable app to get it to a stable state",
+                "Got down the crash rate from 5% to 0% in a span of 6 months",
+                "Implemented new features and optimised performance to enhance user experience."
+            ],
+            "techStack": [
+                "React Native",
+                "Redux Toolkit",
+                "TypeScript",
+                "Claude Code"
+            ]
+        },
+        {
             "title": "Senior Software Engineer (SDE II)",
             "company": "LatitudePay Asia",
             "startDate": "Jan 2020",
@@ -36,8 +56,9 @@
                 "React Native",
                 "React",
                 "Node.js",
-                "MongoDB",
-                "React Native"
+                "React Native",
+                "Fastlane",
+                "GitHub Actions"
             ]
         },
         {
